@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783050393743",
+    "project_id": "loginmvvm-f9921",
+    "storage_bucket": "loginmvvm-f9921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783050393743:android:cdf78bae28652c08c1c8fa",
+        "android_client_info": {
+          "package_name": "com.app.loginmvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783050393743-1ds6beupj2hs8q8c4g4qd4t8mt1fj9he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPCdGP6cAMYAKm7ww8MFbeIfpCSu0fGiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783050393743-1ds6beupj2hs8q8c4g4qd4t8mt1fj9he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
